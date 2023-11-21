@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 int swap (int* a , int* b ){
     int temp = *a ;
     *a =*b;
